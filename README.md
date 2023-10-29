@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Fastify](https://fastify.dev/)
 - [Knex](https://knexjs.org/)
 - [Vitest](https://vitest.dev/)
+- [ZOD](https://zod.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 

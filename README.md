@@ -19,7 +19,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [NodeJS](https://nodejs.org/en))
+- [NodeJS](https://nodejs.org/en)
 - [Fastify](https://fastify.dev/)
 - [Knex](https://knexjs.org/)
 - [Vitest](https://vitest.dev/)
